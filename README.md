@@ -14,6 +14,9 @@ pinned: false
 Note: most of the code is taken from nvlabs/stylegan2-ada-pytroch (original readme below).
 I added gradio interfaces and CLIP projection.
 
+## What's your ape?
+For the "what's your ape" app, see the file `interface_projector.py`.
+
 ## StyleGAN2-ADA &mdash; Official PyTorch implementation
 
 ![Teaser image](./docs/stylegan2-ada-teaser-1024x252.png)
